@@ -1,5 +1,5 @@
 TEST
 ====
 
-**funguje to*
+**funguje to**
 
