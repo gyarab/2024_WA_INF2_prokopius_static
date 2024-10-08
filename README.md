@@ -1,5 +1,5 @@
 SKIBIDI TOILET popis repozitáře stránky
 ====
 
-**funguje to**
+**Stránka, ve které jsou obsaženy základní informace o skibi toiletách**
 
