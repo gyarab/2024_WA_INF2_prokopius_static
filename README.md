@@ -1,7 +1,7 @@
-SKIBIDI TOILET popis repozitáře stránky
+SKIBIDI TOALETA popis repozitáře stránky
 ====
 
-Stránka, ve které jsou obsaženy základní informace o skibi toiletách
+Stránka, ve které jsou obsaženy základní informace o skibi toaletách
 
 Repozitář: 
 
